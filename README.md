@@ -1,0 +1,1 @@
+# Synteticke-EKG
