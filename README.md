@@ -1,1 +1,3 @@
-# Synteticke-EKG
+# Syntetické EKG
+
+![Uploading ekg_animation.gif…]()
